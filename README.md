@@ -200,10 +200,13 @@ The Java application is divided into several parts to keep the code organized.
 * **util** - Contains utility methods for date, time, and weather calculations.
 * **web** - Contains the HTML, CSS, and JavaScript version of the application.
 
-## Author
+## 👨‍💻 Author
 
-WeatherWave was developed as a Java project to practice Java Swing, API integration, JSON data handling, and web development.
+**S.D Nuwan Tharanga**
+---
 
-## License
+## 📄 License
+
+This project is intended for educational and academic use.
 
 This project is intended for educational and academic use.
