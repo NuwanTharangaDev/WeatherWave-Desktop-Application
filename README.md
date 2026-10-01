@@ -207,6 +207,5 @@ The Java application is divided into several parts to keep the code organized.
 
 ## 📄 License
 
-This project is intended for educational and academic use.
 
 This project is intended for educational and academic use.
