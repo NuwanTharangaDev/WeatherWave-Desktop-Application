@@ -206,4 +206,4 @@ WeatherWave was developed as a Java project to practice Java Swing, API integrat
 
 ## License
 
-
+This project is intended for educational and academic use.
